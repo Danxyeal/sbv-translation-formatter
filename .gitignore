@@ -1,3 +1,7 @@
+# SBV Formatter User Files
+target.sbv
+source.sbv
+output.sbv
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
